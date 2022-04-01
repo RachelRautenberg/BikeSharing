@@ -7,7 +7,7 @@ New York City has a well running CitiBike program.  Recently interest has been e
 
 
 ### RESULTS
-The visuals below can be viewed in more detail and with interactivity at the follwing [link to dashboard](https://public.tableau.com/app/profile/rachel.rautenberg/viz/NYCCitiBikeChallenge_Mod14/Story1?publish=yes)
+The visuals below can be viewed in more detail and with interactivity at the follwing: [NYC CitiBike Story](https://public.tableau.com/app/profile/rachel.rautenberg/viz/NYCCitiBikeChallenge_Mod14/Story1?publish=yes)
 
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
