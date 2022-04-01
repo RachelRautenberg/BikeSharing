@@ -28,4 +28,8 @@ Finally, when all is said and done, the long term plans should understand that b
 
 NYC and Des Moines are two very different areas, but as long as a bike sharing plan is scaled approriately for the area, we have some great data to develop a full business plan, including key points for marketing plans, pricing plans, and long term sustainability. 
 
+Other data or visuals that would further add to this analysis:
+* Frequency of bikes being checked out and returned to the same station.  This may not be overly helpful for analysis if there is rare instances, however, if there is even 50% returned to same station, the information would drive home the importance of station placement for the targeted city.
+* It may also be helpful to dig deeper in the the age of users.  Assumptions could then possibly be made based on prominent age of users, maybe bikes of the cruiser style should be included in the business for more comfort geared toward a more leisurely paced aging biker for example. Or do we seem to be missing a younger, likely early family age group where kiddie riders/trailers could be an expansion option. 
+
 
