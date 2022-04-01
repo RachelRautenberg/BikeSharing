@@ -13,7 +13,7 @@ Two things to note about users; the majority are male and the majority are subsc
 [pic 1] ()
 
 An assumption can be made based off of peak hours use, that bikes are heavily used before work or even to get to work, then again to get home or right after work. There is potential to offer day hour discounts to entice mid-day use. We see that same trend when looking across weekdays as well. 
-[pic 2] () [pic 3] ()
+[pic 2] (https://github.com/RachelRautenberg/BikeSharing/blob/main/Resources/pic%202.PNG) [pic 3] ()
 
 Furthermore, subscribing males show the most prominent use all week, with non-subscribing customer use being consistent across gender. 
 [pic 4] ()
